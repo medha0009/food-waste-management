@@ -1,0 +1,4 @@
+streamlit version 1.48.1
+pandas version 2.2.3
+plotly version 6.3.0
+mysql-connector-python version 9.4.0
